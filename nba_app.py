@@ -11,7 +11,7 @@ st.write("""
 # Make or Miss?
 #### By: Shaikh Ibrahim Noman
 ###### Link to data set in GitHub
-###### Welcome to make or miss. This web app predicts whether a basketball shot will go in or not. Select the parameters on the lfet hand side and see what happens.
+###### Welcome to make or miss. This web app predicts whether a basketball shot will go in or not. Select the parameters on the left hand side and see what happens.
 """)
 
 image = Image.open('basketball.png')
